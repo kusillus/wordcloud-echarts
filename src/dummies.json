@@ -1,0 +1,215 @@
+{
+    "data": [
+        {
+            "name": "bcp",
+            "negativo": 231,
+            "neutro": 1186,
+            "positivo": 3330,
+            "total": 4747
+        },
+        {
+            "name": "interbank",
+            "negativo": 202,
+            "neutro": 1071,
+            "positivo": 2266,
+            "total": 3539
+        },
+        {
+            "name": "bbva",
+            "negativo": 188,
+            "neutro": 1060,
+            "positivo": 2120,
+            "total": 3368
+        },
+        {
+            "name": "scotiabank",
+            "negativo": 132,
+            "neutro": 931,
+            "positivo": 1995,
+            "total": 3058
+        },
+        {
+            "name": "soles",
+            "negativo": 54,
+            "neutro": 870,
+            "positivo": 1945,
+            "total": 2869
+        },
+        {
+            "name": "001101160200506996",
+            "negativo": 21,
+            "neutro": 797,
+            "positivo": 1855,
+            "total": 2673
+        },
+        {
+            "name": "0217520261",
+            "negativo": 21,
+            "neutro": 797,
+            "positivo": 1855,
+            "total": 2673
+        },
+        {
+            "name": "1383082526759",
+            "negativo": 21,
+            "neutro": 797,
+            "positivo": 1855,
+            "total": 2673
+        },
+        {
+            "name": "19123831882006",
+            "negativo": 21,
+            "neutro": 797,
+            "positivo": 1855,
+            "total": 2673
+        },
+        {
+            "name": "albergue",
+            "negativo": 9,
+            "neutro": 782,
+            "positivo": 1855,
+            "total": 2646
+        },
+        {
+            "name": "bcp",
+            "negativo": 231,
+            "neutro": 1186,
+            "positivo": 3330,
+            "total": 4747
+        },
+        {
+            "name": "interbank",
+            "negativo": 202,
+            "neutro": 1071,
+            "positivo": 2266,
+            "total": 3539
+        },
+        {
+            "name": "bbva",
+            "negativo": 188,
+            "neutro": 1060,
+            "positivo": 2120,
+            "total": 3368
+        },
+        {
+            "name": "scotiabank",
+            "negativo": 132,
+            "neutro": 931,
+            "positivo": 1995,
+            "total": 3058
+        },
+        {
+            "name": "soles",
+            "negativo": 54,
+            "neutro": 870,
+            "positivo": 1945,
+            "total": 2869
+        },
+        {
+            "name": "001101160200506996",
+            "negativo": 21,
+            "neutro": 797,
+            "positivo": 1855,
+            "total": 2673
+        },
+        {
+            "name": "0217520261",
+            "negativo": 21,
+            "neutro": 797,
+            "positivo": 1855,
+            "total": 2673
+        },
+        {
+            "name": "1383082526759",
+            "negativo": 21,
+            "neutro": 797,
+            "positivo": 1855,
+            "total": 2673
+        },
+        {
+            "name": "19123831882006",
+            "negativo": 21,
+            "neutro": 797,
+            "positivo": 1855,
+            "total": 2673
+        },
+        {
+            "name": "albergue",
+            "negativo": 9,
+            "neutro": 782,
+            "positivo": 1855,
+            "total": 2646
+        },
+        {
+            "name": "bcp",
+            "negativo": 231,
+            "neutro": 1186,
+            "positivo": 3330,
+            "total": 4747
+        },
+        {
+            "name": "interbank",
+            "negativo": 202,
+            "neutro": 1071,
+            "positivo": 2266,
+            "total": 3539
+        },
+        {
+            "name": "bbva",
+            "negativo": 188,
+            "neutro": 1060,
+            "positivo": 2120,
+            "total": 3368
+        },
+        {
+            "name": "scotiabank",
+            "negativo": 132,
+            "neutro": 931,
+            "positivo": 1995,
+            "total": 3058
+        },
+        {
+            "name": "soles",
+            "negativo": 54,
+            "neutro": 870,
+            "positivo": 1945,
+            "total": 2869
+        },
+        {
+            "name": "001101160200506996",
+            "negativo": 21,
+            "neutro": 797,
+            "positivo": 1855,
+            "total": 2673
+        },
+        {
+            "name": "0217520261",
+            "negativo": 21,
+            "neutro": 797,
+            "positivo": 1855,
+            "total": 2673
+        },
+        {
+            "name": "1383082526759",
+            "negativo": 21,
+            "neutro": 797,
+            "positivo": 1855,
+            "total": 2673
+        },
+        {
+            "name": "19123831882006",
+            "negativo": 21,
+            "neutro": 797,
+            "positivo": 1855,
+            "total": 2673
+        },
+        {
+            "name": "albergue",
+            "negativo": 9,
+            "neutro": 782,
+            "positivo": 1855,
+            "total": 2646
+        }
+    ],
+    "success": true
+}
